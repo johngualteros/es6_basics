@@ -1,0 +1,27 @@
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "description": "es6 basics",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johngualteros/es6_basics.git"
+  },
+  "author": "john",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johngualteros/es6_basics/issues"
+  },
+  "homepage": "https://github.com/johngualteros/es6_basics#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
